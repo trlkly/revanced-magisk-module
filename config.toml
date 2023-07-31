@@ -7,7 +7,7 @@ build-mindetach-module = true
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-apkmirror-arch = "arm-v7a"
+# apkmirror-arch = "arm-v7a"
 build-mode = "both"
 excluded-patches = "custom-branding disable-zoom-haptics enable-debugging external-downloads hide-email-address hide-player-overlay hide-seekbar hide-timestamp playback-speed premium-heading remember-video-quality spoof-app-version swipe-controls theme"
 
